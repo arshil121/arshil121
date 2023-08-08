@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arshil
-- 👀 I’m interested in C, Python, Machine Learning, and AI
-- 🌱 I’m currently learning Machine Learning, and AI using Pyhton
+- 👀 I’m interested in C, Java, Android Development, and Web Development
+- 🌱 I’m currently learning Front end development based on ReactJS
 - 💞️ I’m looking to collaborate for Internship with programming.
 - 📫 How to reach me: Through FB: https://www.facebook.com/arshil121
 
