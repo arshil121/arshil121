@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshil121&label=Profile%20views&color=0e75b6&style=flat" alt="arshil121" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arshil68228729" target="blank"><img src="https://img.shields.io/twitter/follow/arshil68228729?logo=twitter&style=for-the-badge" alt="arshil68228729" /></a> </p>
-
 - 🔭 I’m currently working on **HTML, CSS, JS, ReactJS & Tailwind CSS**
 
 - 🌱 I’m currently learning **React JS**
@@ -22,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arshil68228729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshil68228729" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shoabalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoabalam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22462741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22462741" height="30" width="40" /></a>
 <a href="https://kaggle.com/arshilalam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arshilalam1" height="30" width="40" /></a>
