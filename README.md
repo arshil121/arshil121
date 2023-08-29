@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with **Internship**
 
-- 👨‍💻 All of my SEO projects are available at [https://arshilinfo.wordpress.com/](Portfolio)
+- 👨‍💻 All of my SEO projects are available at [https://arshilinfo.wordpress.com/](https://arshilinfo.wordpress.com/)
 
 - 📫 How to reach me **arshilalam121@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13gtWgf90NQY_q1k0n0nUcdX8aZwfyEMQ/view?usp=drive_link](GDrive Link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13gtWgf90NQY_q1k0n0nUcdX8aZwfyEMQ/view?usp=drive_link](https://drive.google.com/file/d/13gtWgf90NQY_q1k0n0nUcdX8aZwfyEMQ/view?usp=drive_link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
