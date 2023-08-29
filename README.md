@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Internship**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arshil121](https://github.com/arshil121)
+- 👨‍💻 All of my SEO projects are available at [https://arshilinfo.wordpress.com/](https://arshilinfo.wordpress.com/)
 
 - 📫 How to reach me **arshilalam121@gmail.com**
 
