@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 🤝 I’m looking for help with **Internship**
-
 - 👨‍💻 All of my SEO projects are available at [https://arshilinfo.wordpress.com/](https://arshilinfo.wordpress.com/)
 
 - 📫 How to reach me **arshilalam121@gmail.com**
