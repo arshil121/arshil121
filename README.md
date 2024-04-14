@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shoab</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Lecturer of CSE at Green University of Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f2c32ecf687322d6640860cc56a5bae6fe77bad1656c06291c77b16987836cb4/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d6563663035653437736f667769787179797135766c633371357372723665306575376f3339326d7435727a396d6b63362665703d76315f676966735f72656c61746564267269643d67697068792e6769662663743d67">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshil121&label=Profile%20views&color=0e75b6&style=flat" alt="arshil121" /> </p>
 
-- 🔭 I’m currently working on **HTML, CSS, JS, ReactJS & Tailwind CSS**
+- 🔭 I’m currently working on **Python, AI, ML**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine learning**
 
-- 👯 I’m looking to collaborate on **Front End Projects**
+- 👯 I’m looking to collaborate on **Research on ai & ml field**
 
 - 👨‍💻 All of my SEO projects are available at [https://arshilinfo.wordpress.com/](https://arshilinfo.wordpress.com/)
 
